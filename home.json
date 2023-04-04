@@ -7,7 +7,7 @@
     },
     "rich-text": {
         "props": {
-            "text": "Tutorial de GitFlow",
+            "text": "GitFlow",
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
             "font": "t-heading-1"
