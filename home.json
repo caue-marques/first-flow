@@ -1,0 +1,23 @@
+{
+    "store.home": {
+        "blocks": [
+            "rich-text",
+            "image#logo"
+        ]
+    },
+    "rich-text": {
+        "props": {
+            "text": "Tutorial de GitFlow",
+            "textAlignment": "CENTER",
+            "textPosition": "CENTER",
+            "font": "t-heading-1"
+        }
+    },
+    "image#logo": {
+        "props": {
+            "blockClass": ["logo"],
+            "maxHeight": 24,
+            "src": "arquivos/logo.png"
+        }
+    }
+}
