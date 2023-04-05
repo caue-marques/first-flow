@@ -1,6 +1,6 @@
 ﻿## README desevolvido para apresentar tópicos estudados durante a trilha de estágio.
  
- ### Conceitos estudados até o momento:
+ ### Conceitos aplicados neste repositório:
  
  #### GIT e GIT Flow:
   
@@ -15,5 +15,3 @@
   |    merge     |          |
   |    rebase    |          |
   | cherry-pick  |          |
-  
- #### Markdown
