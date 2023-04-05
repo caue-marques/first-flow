@@ -3,20 +3,17 @@
  ### Conceitos estudados até o momento:
  
  #### GIT e GIT Flow:
-  * add
-  * commit
-  * push
-  * pull
-  * branch
-  * fetch
-  * merge
-  * rebase
-  * cherry-pick
-  * feature
-  * release
-  * develop
-  * main
-  * hotfix
-  * bugfix
+  
+  |     GIT      | GIT Flow |
+  | ------------ | -------- |
+  |     add      |  feature |
+  |    commit    |  release |
+  |     push     |  develop |
+  |     pull     |  main    |
+  |    branch    |  hotfix  |
+  |    fetch     |  bugfix  |
+  |    merge     |          |
+  |    rebase    |          |
+  | cherry-pick  |          |
   
  #### Markdown
